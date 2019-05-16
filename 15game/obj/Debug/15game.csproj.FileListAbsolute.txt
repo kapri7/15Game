@@ -1,0 +1,82 @@
+D:\tutorial\11-A\Steniakin\15game\15game\bin\Debug\15game.exe.config
+D:\tutorial\11-A\Steniakin\15game\15game\bin\Debug\15game.exe
+D:\tutorial\11-A\Steniakin\15game\15game\bin\Debug\15game.pdb
+D:\tutorial\11-A\Steniakin\15game\15game\obj\Debug\15game.csprojResolveAssemblyReference.cache
+D:\tutorial\11-A\Steniakin\15game\15game\obj\Debug\_15game.Form1.resources
+D:\tutorial\11-A\Steniakin\15game\15game\obj\Debug\_15game.Form2.resources
+D:\tutorial\11-A\Steniakin\15game\15game\obj\Debug\_15game.Properties.Resources.resources
+D:\tutorial\11-A\Steniakin\15game\15game\obj\Debug\15game.csproj.GenerateResource.Cache
+D:\tutorial\11-A\Steniakin\15game\15game\obj\Debug\15game.exe
+D:\tutorial\11-A\Steniakin\15game\15game\obj\Debug\15game.pdb
+C:\Users\Ivan\Desktop\15game\15game\bin\Debug\15game.exe.config
+C:\Users\Ivan\Desktop\15game\15game\obj\Debug\15game.exe
+C:\Users\Ivan\Desktop\15game\15game\obj\Debug\15game.pdb
+C:\Users\Ivan\Desktop\15game\15game\bin\Debug\15game.exe
+C:\Users\Ivan\Desktop\15game\15game\bin\Debug\15game.pdb
+C:\Users\Ivan\Desktop\15game\15game\obj\Debug\15game.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\15game\15game\obj\Debug\_15game.Form1.resources
+C:\Users\Ivan\Desktop\15game\15game\obj\Debug\_15game.Form2.resources
+C:\Users\Ivan\Desktop\15game\15game\obj\Debug\_15game.Properties.Resources.resources
+C:\Users\Ivan\Desktop\15game\15game\obj\Debug\15game.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\15game\15game\bin\Debug\15game.exe.config
+C:\Users\acer\Desktop\15game\15game\obj\Debug\15game.exe
+C:\Users\acer\Desktop\15game\15game\obj\Debug\15game.pdb
+C:\Users\acer\Desktop\15game\15game\bin\Debug\15game.exe
+C:\Users\acer\Desktop\15game\15game\bin\Debug\15game.pdb
+C:\Users\acer\Desktop\15game\15game\obj\Debug\15game.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\15game\15game\obj\Debug\_15game.Form1.resources
+C:\Users\acer\Desktop\15game\15game\obj\Debug\_15game.Form2.resources
+C:\Users\acer\Desktop\15game\15game\obj\Debug\_15game.Properties.Resources.resources
+C:\Users\acer\Desktop\15game\15game\obj\Debug\15game.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\15game — копия\15game\bin\Debug\15game.exe.config
+C:\Users\acer\Desktop\15game — копия\15game\obj\Debug\15game.exe
+C:\Users\acer\Desktop\15game — копия\15game\obj\Debug\15game.pdb
+C:\Users\acer\Desktop\15game — копия\15game\bin\Debug\15game.exe
+C:\Users\acer\Desktop\15game — копия\15game\bin\Debug\15game.pdb
+C:\Users\acer\Desktop\15game — копия\15game\obj\Debug\15game.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\15game — копия\15game\obj\Debug\_15game.Form1.resources
+C:\Users\acer\Desktop\15game — копия\15game\obj\Debug\_15game.Form2.resources
+C:\Users\acer\Desktop\15game — копия\15game\obj\Debug\_15game.Properties.Resources.resources
+C:\Users\acer\Desktop\15game — копия\15game\obj\Debug\15game.csproj.GenerateResource.Cache
+F:\15game\15game\bin\Debug\15game.exe.config
+F:\15game\15game\obj\Debug\15game.exe
+F:\15game\15game\obj\Debug\15game.pdb
+F:\15game\15game\bin\Debug\15game.exe
+F:\15game\15game\bin\Debug\15game.pdb
+F:\15game\15game\obj\Debug\15game.csprojResolveAssemblyReference.cache
+F:\15game\15game\obj\Debug\_15game.Form1.resources
+F:\15game\15game\obj\Debug\_15game.Form2.resources
+F:\15game\15game\obj\Debug\_15game.Properties.Resources.resources
+F:\15game\15game\obj\Debug\15game.csproj.GenerateResource.Cache
+I:\15game\15game\bin\Debug\15game.exe.config
+I:\15game\15game\bin\Debug\15game.exe
+I:\15game\15game\bin\Debug\15game.pdb
+I:\15game\15game\obj\Debug\15game.csprojResolveAssemblyReference.cache
+I:\15game\15game\obj\Debug\_15game.Form1.resources
+I:\15game\15game\obj\Debug\_15game.Form2.resources
+I:\15game\15game\obj\Debug\_15game.Properties.Resources.resources
+I:\15game\15game\obj\Debug\15game.csproj.GenerateResource.Cache
+I:\15game\15game\obj\Debug\15game.exe
+I:\15game\15game\obj\Debug\15game.pdb
+C:\Users\Ivan\Desktop\Файлы с флешки вани\Другое\15game\15game\bin\Debug\15game.exe.config
+C:\Users\Ivan\Desktop\Файлы с флешки вани\Другое\15game\15game\obj\Debug\15game.exe
+C:\Users\Ivan\Desktop\Файлы с флешки вани\Другое\15game\15game\obj\Debug\15game.pdb
+G:\15game\15game\bin\Debug\15game.exe.config
+G:\15game\15game\obj\Debug\15game.exe
+G:\15game\15game\obj\Debug\15game.pdb
+G:\15game\15game\bin\Debug\15game.exe
+G:\15game\15game\bin\Debug\15game.pdb
+G:\15game\15game\obj\Debug\15game.csprojResolveAssemblyReference.cache
+G:\15game\15game\obj\Debug\_15game.Form1.resources
+G:\15game\15game\obj\Debug\_15game.Properties.Resources.resources
+G:\15game\15game\obj\Debug\15game.csproj.GenerateResource.Cache
+C:\Users\drive\Desktop\other\15game\15game\bin\Debug\15game.exe.config
+C:\Users\drive\Desktop\other\15game\15game\bin\Debug\15game.exe
+C:\Users\drive\Desktop\other\15game\15game\bin\Debug\15game.pdb
+C:\Users\drive\Desktop\other\15game\15game\obj\Debug\15game.csprojAssemblyReference.cache
+C:\Users\drive\Desktop\other\15game\15game\obj\Debug\_15game.Form1.resources
+C:\Users\drive\Desktop\other\15game\15game\obj\Debug\_15game.Properties.Resources.resources
+C:\Users\drive\Desktop\other\15game\15game\obj\Debug\15game.csproj.GenerateResource.cache
+C:\Users\drive\Desktop\other\15game\15game\obj\Debug\15game.csproj.CoreCompileInputs.cache
+C:\Users\drive\Desktop\other\15game\15game\obj\Debug\15game.exe
+C:\Users\drive\Desktop\other\15game\15game\obj\Debug\15game.pdb

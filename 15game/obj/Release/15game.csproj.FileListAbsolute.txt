@@ -1,0 +1,10 @@
+C:\Users\drive\Desktop\other\15game\15game\bin\Release\15game.exe.config
+C:\Users\drive\Desktop\other\15game\15game\bin\Release\15game.exe
+C:\Users\drive\Desktop\other\15game\15game\bin\Release\15game.pdb
+C:\Users\drive\Desktop\other\15game\15game\obj\Release\_15game.Form1.resources
+C:\Users\drive\Desktop\other\15game\15game\obj\Release\_15game.Properties.Resources.resources
+C:\Users\drive\Desktop\other\15game\15game\obj\Release\15game.csproj.GenerateResource.cache
+C:\Users\drive\Desktop\other\15game\15game\obj\Release\15game.csproj.CoreCompileInputs.cache
+C:\Users\drive\Desktop\other\15game\15game\obj\Release\15game.exe
+C:\Users\drive\Desktop\other\15game\15game\obj\Release\15game.pdb
+C:\Users\drive\Desktop\other\15game\15game\obj\Release\15game.csprojAssemblyReference.cache
